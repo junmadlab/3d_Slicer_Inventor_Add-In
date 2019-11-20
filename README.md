@@ -1,1 +1,1 @@
-# 3d Slicer: An Inventor Add-In Using Visual Basi
+# 3d Slicer: An Inventor Add-In Using Visual Basic
